@@ -230,6 +230,7 @@ header{
     background-color: #172337;
     color: white;
     padding: 10px;
+    flex-wrap: wrap;
 }
 .one, .two, .three, .four, .five{
     flex: 20%;
